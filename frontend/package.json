@@ -9,6 +9,7 @@
     "web": "expo start --web",
     "eject": "expo eject"
   },
+  "proxy": "http://127.0.0.1:5000/",
   "dependencies": {
     "expo": "~43.0.2",
     "expo-status-bar": "~1.1.0",
