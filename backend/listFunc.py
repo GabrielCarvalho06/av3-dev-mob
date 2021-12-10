@@ -1,3 +1,6 @@
+#Gabriel da Silva Carvalho
+#0050013382
+
 import pymysql.cursors
 import json
 

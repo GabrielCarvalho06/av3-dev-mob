@@ -1,3 +1,6 @@
+#Gabriel da Silva Carvalho
+#0050013382
+
 from flask import Flask
 from flask_cors import CORS, cross_origin
 from listFunc import listFuncionarios

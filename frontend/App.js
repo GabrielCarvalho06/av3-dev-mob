@@ -1,3 +1,6 @@
+/*{#Gabriel da Silva Carvalho
+#0050013382}*/
+
 import React, {useState, useEffect, useDebugValue} from 'react';
 import { StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
