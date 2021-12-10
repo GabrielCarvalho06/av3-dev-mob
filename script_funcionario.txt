@@ -1,0 +1,5 @@
+create table funcionario (
+	func_id int (12) PRIMARY KEY AUTO_INCREMENT,
+    nome varchar (40) not Null,
+    telefone int (15) not Null
+); 
